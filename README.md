@@ -9,7 +9,9 @@ Google Calendar
 Elfa installation service schedule
 
 screenshots:
+
 ![Alt text](/screen.png?raw=true "Placeholder")
+
 screen to port over schedule from elfa page
  
 Installation Instructions​:
