@@ -14,7 +14,7 @@ Elfa installation service schedule
 Possible how the wizard installer will look like  
 ![Alt text](/screen.png?raw=true "Optional Title")  
 screen to port over schedule from elfa page  
-![Alt text](/google.png?raw=true "Optional Title")  
+![Alt text](/google.jpg?raw=true "Optional Title")  
 Google schedule page should fill up with the elfa schedule    
  
 **Installation Instructions**  
