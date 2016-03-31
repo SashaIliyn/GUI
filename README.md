@@ -34,8 +34,8 @@ The project has not yet been started on..Will need to go over with client specif
 
 **Contributor list**  
 Should and only be:  
-Albert Sta Cruz  
-Sasha Iliyn  
+[Albert Sta Cruz](https://github.com/aStaCruz)<br />
+[Sasha Iliyn](https://github.com/SashaIliyn)<br />
 
 **Credits, Inspiration, Alternatives**  
 My boss needs an alternative or technology to easily port over his elfa schedule into google calendar without manually copying each individual one.
