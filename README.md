@@ -9,7 +9,7 @@ Google Calendar
 Elfa installation service schedule
 
 screenshots:
-<img src="http://imgur.com/sp1JabM" alt="Alt text" style="max-width:100%;">
+<img src="http://imgur.com/sp1JabM" style="max-width:100%;">
 screen to port over schedule from elfa page
  
 Installation Instructions​:
