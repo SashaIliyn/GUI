@@ -9,8 +9,13 @@ Google Calendar
 Elfa installation service schedule
 
 **screenshots**  
+
+![Alt text](/wizard.png?raw=true "Optional Title")  
+Possible how the wizard installer will look like  
 ![Alt text](/screen.png?raw=true "Optional Title")  
-screen to port over schedule from elfa page
+screen to port over schedule from elfa page  
+![Alt text](/google.png?raw=true "Optional Title")  
+Google schedule page should fill up with the elfa schedule    
  
 **Installation Instructions**  
 1. Download Product  
