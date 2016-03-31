@@ -8,9 +8,8 @@ busy individuals and provide a template for other uses.
 Google Calendar
 Elfa installation service schedule
 
-**screenshots**
-![Alt text](/screen.png?raw=true "Optional Title")
-<img src="http://imgur.com/sp1JabM" style="max-width:100%;">
+**screenshots**  
+![Alt text](/screen.png?raw=true "Optional Title")  
 screen to port over schedule from elfa page
  
 **Installation Instructions**
